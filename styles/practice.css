@@ -1,0 +1,75 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.open-sans-normal2 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.background-image {
+    background-image: url(../images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    
+ color:(#464646,#070211);
+
+   
+
+
+}
+.First-title{
+    color:#FFFFFF;
+    font-size: 32px;
+   
+}
+.sub-title{
+ color:#FFFFFF; 
+ font-size: 72px;
+    width: 632; 
+    height: 190;
+}
+
+.heading-styles{
+    padding:177px 344px;
+    text-align: center;
+     word-spacing:16;
+}
+/* 2nd part */
+.2nd-part{
+    width:802.9px;
+    height:806px;
+    
+
+}
+
+.title{
+    font-size: 88px;
+    color:#FF0000;
+}
+.header{
+    text-align: center;
+
+}
+.Holyday{
+    font-size: 24px;
+    font-weight: 800;
+    color:#FF0000;
+}
+.categories{
+    font-size: 38px;
+    font-weight: 800;
+    color:#070211;
+}
+.two-photo{
+    text-align: center;
+}
